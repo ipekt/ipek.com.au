@@ -190,3 +190,13 @@ a:hover { text-decoration: underline; }
 .site-footer-owner { display: block; font-weight: bold; }
 
 .site-footer-credits { color: #819198; }
+
+.btn-icon {
+  font-size: 2em;
+  color: rgba(255, 255, 255, 0.7);
+  margin-right: 0.5em;
+}
+
+.btn-icon:hover {
+  color: yellow;
+}
