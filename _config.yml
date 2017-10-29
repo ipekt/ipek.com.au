@@ -1,1 +1,17 @@
-theme: jekyll-theme-cayman
+# Setup
+title:        Ipek Turgul
+tagline:      Software Developer
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       Ipek Turgul
+  url:        https://twitter.com/ipekturgul
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
